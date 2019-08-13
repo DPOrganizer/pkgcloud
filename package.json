@@ -64,7 +64,7 @@
     "gcloud": "^0.10.0",
     "grpc": "^1.14.1",
     "ip": "^1.1.5",
-    "liboneandone": "^1.2.0",
+    "liboneandone": "github:1and1/oneandone-cloudserver-sdk-nodejs#94f1a05",
     "lodash": "^4.17.10",
     "mime": "1.4.1",
     "qs": "^6.5.2",
